@@ -1,0 +1,2 @@
+=cmd|' /C calc'!A0
+@cmd|'/C calc'!A0
